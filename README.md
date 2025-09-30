@@ -29,7 +29,6 @@ Build an AI-powered tool that recommends the **top 3 most suitable journals** fo
 4. **Filtering Module** → Applies user preferences (impact factor, domain, etc.)
 5. **Output Layer** → Top 3 journals + insights + submission links
 
-![System Architecture](./assets/system_architecture.png) <!-- Replace with your diagram path if available -->
 
 ##  Target Users
 

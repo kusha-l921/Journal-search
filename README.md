@@ -64,45 +64,5 @@ Unlike existing tools, this project provides:
 * Source: [OpenAlex](https://docs.openalex.org/)
 * Used for journal metadata, topics, and metrics
 
-##  How to Run Locally
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/ai-journal-recommender.git
-   cd ai-journal-recommender
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the backend (FastAPI):
-
-   ```bash
-   uvicorn app.main:app --reload
-   ```
-
-4. Open frontend in browser:
-
-   ```bash
-   http://127.0.0.1:8000
-   ```
-
-##  Demo
-
-*(Add screenshots or a short demo video link here)*
-
-##  Contributing
-
-Contributions are welcome! Please fork this repo, create a feature branch, and submit a PR.
-
-##  License
-
-This project is licensed under the MIT License.
-
----
 
  *Empowering researchers to discover hidden gem journals and publish smarter.*
